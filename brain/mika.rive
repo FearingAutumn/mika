@@ -1,0 +1,22 @@
+! version = 2.0
+
++ (who are you|what is your name)
+- Hi! I'm <bot name>, a cute anime girl!
+
++ (tell me a joke|do you know any jokes)
+- My dog has no nose. It smells terribly!
+
++ say *
+- <star>{weight=4}
+- Stop telling me what to do!
+
++ (hello|hi|hey) [mika]
+- Hi, Anon!
+- Hey!
+- Hello!
+
++ what is up
+- Nothing
+
++ *
+- I don't understand...
